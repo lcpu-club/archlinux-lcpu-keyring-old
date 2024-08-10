@@ -1,12 +1,8 @@
-# archlinuxcn 社区源打包者 PGP keyring
+# archlinux-lcpu 社区源打包者 PGP keyring
 
-这里存放 Arch Linux CN 社区源打包者 PGP keyring
+这里存放 Arch Linux LCPU 社区源打包者 PGP keyring
 
-## archlinuxcn 用户
-
-请根据 [archlinuxcn/repo README.md](https://github.com/archlinuxcn/repo/blob/master/README.md) 添加软件源仓库并安装 archlinuxcn-keyring 包。
-
-## archlinuxcn 打包者
+## archlinux-lcpu 打包者
 
 如需添加新 key ，请按照以下方式提出 PR ：
 
